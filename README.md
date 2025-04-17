@@ -1,16 +1,18 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**tchiahsu/tchiahsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! My name is Tony Hsu, and I'm currently a graduate student at Northeastern Univeristy.
 
-Here are some ideas to get you started:
+🔹 **Current Degree:** M.S. in Computer Science at Khoury College of Computer Sciences </br>
+🔹 **Expected Graduation:** December 2026 </br>
+🔹 **Specialization:** System and Software </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ My Tech Stack & Tools
+
+**Cloud & Platforms:** `AWS` `Azure` </br>
+**Frontend Development:** `HTML/CSS` `Tailwind` `JavaScript` `TypeScript` `React` `Next.js` </br>
+**Version Control:** `Git` `GitHub` </br>
+**Testing:** `JUnit` `PyUnit` </br>
+
+## 📒 Contact
+
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/chiatonyhsu/).
