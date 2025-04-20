@@ -2,7 +2,7 @@
 
 This is where I build, learn and share my projects!
 
-I'm currently a computer science student at [Northeastern University](https://www.northeastern.edu/). Before switching into tech, I spent nearly 3 years as an Operations Manager at a vertical farm, where I saw the impact that technology could have on the future of agriculture. In 2024, I pivoted into computer science to explore how technology can drive innovation and I'm excited to keep learning and stay open to new ideas across the tech field.
+I'm currently a computer science student at [Northeastern University](https://www.northeastern.edu/). Before switching into tech, I spent nearly 3 years as an Operations Manager at a vertical farm, where I saw the impact that technology could have on the future of agriculture. In 2024, I pivoted into computer science to explore how technology can drive innovation, and I'm excited to keep expanding my skills and knowledge tech field.
 
 🌱 I'm currently exploring backend systems, algorithms, and clean architecture! 
 
