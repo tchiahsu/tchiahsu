@@ -2,7 +2,7 @@
 
 This is where I build, learn and share my projects!
 
-I'm a first-year graduate student at Northeastern University's [Khoury College of Computer Science](https://www.khoury.northeastern.edu/). Before diving into CS, I spent almost 3 years as an Operations Manager at Boston Microgreens, a controller environment vertical farm focused on sustainable food systems. In 2024, I made the decision to pivot into computer science to explore the intersection of agriculture and technology.
+I'm a first-year graduate student at Northeastern University's [Khoury College of Computer Science](https://www.khoury.northeastern.edu/). Before diving into CS, I spent nearly 3 years as an Operations Manager at Boston Microgreens, where I saw first hand how critical technology is for the future of agriculture. In 2024, I made the decision to pivot into computer science to explore how technology can drive innovations in agriculture. While agricultural technology remains a strong interest of mine, I stay open to new ideas and opportunities to expand my knowledge in the broader tech landscape.
 
 🌱 I'm currently exploring backend systems, algorithms, and clean architecture! 
 
