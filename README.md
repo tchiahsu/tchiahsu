@@ -12,7 +12,7 @@ I'm currently a computer science student at [Northeastern University](https://ww
 - Learning a new skill 
 
 Always happy to connect, collaborate, or discuss new ideas!
-[LinkedIn](https://www.linkedin.com/in/chiatonyhsu/) 
+[Connect with me on LinkedIn.](https://www.linkedin.com/in/chiatonyhsu/) 
 
 ---
 ### 💻 Languages
