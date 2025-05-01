@@ -6,11 +6,6 @@ I'm currently a computer science student at [Northeastern University](https://ww
 
 🌱 I'm currently exploring backend systems, algorithms, and clean architecture! 
 
-✨ When I'm not coding, you'll usually find me:
-- Exploring new restaurants 
-- Playing video games 
-- Learning a new skill 
-
 Always happy to connect, collaborate, or discuss new ideas!
 [Connect with me on LinkedIn.](https://www.linkedin.com/in/chiatonyhsu/) 
 
