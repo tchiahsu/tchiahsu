@@ -1,4 +1,4 @@
-# 🚀 Welcome to My GitHub!
+# Welcome to My GitHub!
 
 This is where I build, learn and share my projects!
 
@@ -17,3 +17,4 @@ I'm currently a computer science student at [Northeastern University](https://ww
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+
