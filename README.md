@@ -2,7 +2,7 @@
  
 This is where I build, learn and share my projects!
  
-I'm currently a computer science student at [Northeastern University](https://www.northeastern.edu/). Before switching into tech, I spent nearly 3 years as an Operations Manager at a vertical farm, where I saw the impact that technology could have on the future of agriculture. In 2024, I pivoted into computer science to explore how technology can drive innovation. I'm excited to continue expanding my skills and knowledge in the tech field.
+I'm currently a computer science student at [Northeastern University](https://www.northeastern.edu/). Before switching into tech, I spent nearly three years working as an operations manager at Boston Micorgreens, where spreadsheets were the backbone of day-to-day operations. While building and maintaining those systems, I began to see both their strengths and limiations, but particularly how much more effective the business could be with purpose-built software. That experience fundamentally reshaped how I thought about operations and ultimately pushed me to transition into computer science.
  
 🌱 Always happy to connect, collaborate, or discuss new ideas!
 [Connect with me on LinkedIn.](https://www.linkedin.com/in/chiatonyhsu/) 
